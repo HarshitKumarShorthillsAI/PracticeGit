@@ -1,1 +1,1 @@
-New feature added
+soft/hard commands
